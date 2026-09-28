@@ -1,0 +1,20 @@
+# 유튜브 링크 목록 — 한 줄에 하나
+# 빈 줄은 무시되고, '#'으로 시작하는 줄은 주석입니다.
+#
+# 지원 형태:
+#   https://www.youtube.com/watch?v=VIDEO_ID
+#   https://youtu.be/VIDEO_ID?si=xxxx
+#   https://m.youtube.com/watch?v=VIDEO_ID&t=120
+#   https://www.youtube.com/shorts/VIDEO_ID
+#   https://www.youtube.com/live/VIDEO_ID
+#   https://www.youtube.com/embed/VIDEO_ID
+#
+# 지원하지 않는 형태 (거부됨):
+#   재생목록 URL (playlist?list=...)  → 개별 영상 링크로 풀어서 넣어주세요
+#   채널/핸들 URL (/@handle, /channel/...)
+#
+# 실행:  /youtube-qa
+# 또는:  /youtube-qa 다른파일.txt
+
+https://youtu.be/6LFhNbjQ-F8?si=udnVQZ-exi3IxL__
+https://youtu.be/yihGEn-lg5M?si=ZnEHc_LjU6rzSm-q

@@ -1,0 +1,18 @@
+{
+  "input_file": "input\\youtube_links.txt",
+  "total_count": 2,
+  "duplicate_count": 0,
+  "valid_links": [
+    {
+      "url": "https://www.youtube.com/watch?v=6LFhNbjQ-F8",
+      "video_id": "6LFhNbjQ-F8",
+      "source_line": "https://youtu.be/6LFhNbjQ-F8?si=udnVQZ-exi3IxL__"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yihGEn-lg5M",
+      "video_id": "yihGEn-lg5M",
+      "source_line": "https://youtu.be/yihGEn-lg5M?si=ZnEHc_LjU6rzSm-q"
+    }
+  ],
+  "invalid_links": []
+}
